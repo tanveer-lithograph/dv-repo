@@ -1,2 +1,3 @@
-owner = tanveer
+
+owner = tanveer & asmicore
 strat = feature-branch
