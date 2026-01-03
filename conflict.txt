@@ -1,2 +1,2 @@
-owner = DV-team
+owner = asmicore
 strat = feature-branch
