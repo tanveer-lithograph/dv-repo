@@ -1,0 +1,9 @@
+# DV outputs
+*.log
+*.vcd
+*.wlf
+*.fst
+
+# build/output folders
+sim_build/
+out/
